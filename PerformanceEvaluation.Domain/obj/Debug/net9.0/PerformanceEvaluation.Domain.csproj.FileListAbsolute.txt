@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\bin\Debug\net9.0\PerformanceEvaluation.Domain.deps.json
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\bin\Debug\net9.0\PerformanceEvaluation.Domain.dll
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\bin\Debug\net9.0\PerformanceEvaluation.Domain.pdb
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.dll
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\refint\PerformanceEvaluation.Domain.dll
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\PerformanceEvaluation.Domain.pdb
+C:\Users\Lenovo\source\repos\PerformanceEvaluation.Domain\PerformanceEvaluation.Domain\obj\Debug\net9.0\ref\PerformanceEvaluation.Domain.dll
